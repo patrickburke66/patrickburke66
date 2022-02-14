@@ -3,7 +3,7 @@
 I am a student at St. Lawrence Universtiy in Canton, NY.
 I came here from Vermont to study Statistics and Spanish
 
-I enjoy the outdoors, activities like skiing, biking, fishing and running, as well as spending time with my family and friends. 
+I enjoy the outdoors; activities like skiing, biking, fishing and running, as well as spending time with my family and friends. 
 
 <!--
 **patrickburke66/patrickburke66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
